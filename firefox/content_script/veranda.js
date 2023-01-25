@@ -16,19 +16,20 @@
             }
         }
     }
-  
+
     function fillSurvey(score) {
+        const neg_score = ((parseInt(score)+4)%8).toString();
         checkInput("q1", score);
         checkInput("q2", score);
         checkInput("q3", score);
-        checkInput("q4", score);
+        checkInput("q4", neg_score);
         checkInput("q5", score);
         checkInput("q6", score);
         checkInput("q7", score);
         checkInput("q8", score);
         checkInput("q9", score);
         checkInput("q10", score);
-        checkInput("q11", score);
+        checkInput("q11", neg_score);
         checkInput("q12", score);
         checkInput("q13", score);
         checkInput("q14", score);
