@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Veranda",
+    "version": "1.0",
+    "description": "Jacc",
+    "icons": 
+          {
+          "48": "src48x48.png"
+          },
+    "action": {
+        "default_popup": "popup/popup.html"
+    },
+    "permissions": [
+        "activeTab",
+        "tabs",
+        "scripting"
+      ]      
+  }
