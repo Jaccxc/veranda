@@ -1,0 +1,13 @@
+Veranda Privacy Policy
+
+At Veranda, we are committed to protecting your privacy. We understand that privacy is a major concern for users of our Google Chrome extension, and we take it very seriously.
+
+Our extension, Veranda, does not collect any personal information from users. This means that we do not collect or store any information that could be used to identify you, such as your name, email address, or browsing history.
+
+We do not track your browsing behavior or store any information about the websites you visit while using our extension. We also do not share any information with third parties.
+
+The only information we collect is anonymous usage data to improve the performance and reliability of our extension. This data may include information about the version of the extension you are using, the type of device you are using, and the version of the Chrome browser you are using.
+
+We are committed to protecting your privacy and will continue to make efforts to ensure that your personal information is kept safe and secure. If you have any questions or concerns about our privacy policy, please contact us at [email protected].
+
+By using Veranda, you consent to the collection and use of this anonymous usage data in accordance with this privacy policy.
